@@ -24,7 +24,7 @@
     "axios": "^0.21.1",
     "office-ui-fabric-react": "6.189.2",
     "plotly.js": "^1.54.7",
-    "qs": "^6.9.4",
+    "qs": "^6.9.7",
     "react": "16.8.5",
     "react-dom": "16.8.5",
     "react-plotly.js": "^2.4.0",
